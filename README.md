@@ -1,6 +1,6 @@
-# My-Company-CAYANE
+# My-Company-CYANE
 <p align="center">
-  <img src="CYANE.png" alt="CAYANE Logo" width="300" />
+  <img src="CYANE.png" alt="CYANE Logo" width="300" />
 </p>
 
 <h1 align="center">CYANE</h1>
