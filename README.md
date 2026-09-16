@@ -1,7 +1,7 @@
 # My-Company-CAYANE
 <div align="center">
 
-  <img src="./CAYANE.png" alt="CAYANE Logo" width="300"/>
+  <img src="./CYANE.png" alt="CAYANE Logo" width="300"/>
 
   # CAYANE
 
