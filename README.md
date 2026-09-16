@@ -1,12 +1,16 @@
 # My-Company-CAYANE
-<div align="center">
+<p align="center">
+  <img src="CYANE.png" alt="CAYANE Logo" width="300" />
+</p>
 
-  <img src="./CYANE.png" alt="CAYANE Logo" width="300"/>
+<h1 align="center">CYANE</h1>
 
-  # CAYANE
+<p align="center">
+  <a href="https://cyane-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Website-Visit%20Company-blue?style=for-the-badge" alt="Website" />
+  </a>
+</p>
 
-  [![Website](https://img.shields.io/badge/Website-Visit%20Company-blue?style=for-the-badge)](https://cyane-website.vercel.app/)
-
-  [https://my-company-website.com](https://cyane-website.vercel.app/)
-
-</div>
+<p align="center">
+  <a href="https://cyane-website.vercel.app/">https://cyane-website.vercel.app</a>
+</p>
